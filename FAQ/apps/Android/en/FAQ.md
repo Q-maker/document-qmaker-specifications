@@ -58,4 +58,4 @@ You can also click on the button at the bottom right *"ADD A QUESTION"* to go to
 #### How to...?
 In the course of publishing .... 😉
 
-Questions? Offers? Need details? Contact us on our email: [devupdateness@gmail.com] (mailto: devupdateness@gmail.com)
+Questions? Offers? Need details? Contact us on our email: [devupdateness@gmail.com](mailto: devupdateness@gmail.com)
