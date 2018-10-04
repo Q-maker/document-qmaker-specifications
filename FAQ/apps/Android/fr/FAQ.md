@@ -55,6 +55,9 @@ Dans l'Editeur de question-réponse, Cliquez sur l'icon d'appareil photo en haut
 Apres avoir correctement renseigné une page de question-réponses, Faire défiler vers la droite jusqu'a trouver une nouvelle page d'édition de question-réponses avec des champs vide et prêt a être édité.
 Vous pouvez aussi cliquez sur le bouton en bas a droite "AJOUTER UNE QUESTION" pour passer a la question-réponses suivante afin de l'éditer.
 
+#### Comment jouer mes question-réponses éditées?
+Il est possible de démarrer le jeux des question-réponses présentes dans un
+
 #### Comment ...?
 En cours d'édition....😉
 
