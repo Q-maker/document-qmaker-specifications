@@ -13,6 +13,10 @@ Aussi, pour chaques question, l'application choisira une et une (1) seule répon
 
 Ainsi, en mode challenge, un maximum de quatre (4) propositions de réponse vous sont proposées avec une réponse vraie sélectionnée au hasard parmi les propositions de réponse disponibles pour cette question; Le tout devant être complété dans un laps de temps=<i>Durée totale du questionnaire / nombre de questions par session</i>
 
+Mais aussi; lors de l'édition, l'auteur peut spécifier:
+   * Le mode préférentiel (<i>mode recommandé</i>) de lecture: Examen ou challenge.
+   * Si oui ou non le fichier *.qcm peut être exécuté en mode Challenge
+   * Si oui ou non le fichier *.qcm peut être exécuté en mode Examen
 
 ### Quel sont les fonctionnalités à venir?
 Dans les prochaines mise à jours, plusieurs paramèttres de configuration seront ajoutés au mode challenge afin d'offrir à l'auteur du questionnaire
@@ -22,11 +26,6 @@ Il sera alors possible de:
    * Permettre de gérer les cas de réponses multiples en mode challenge
    * Configurer le nombre maximum de propositions de réponse à afficher au joueur (<i>defaut=4</i>)
    * Configurer le nombre maximum de propositions vraies à afficher au joueur pendant un exercice/Quiz (<i>defaut=1</i>).
-
-Mais aussi:
-   * Configurer le mode préférentiel (<i>mode recommandé</i>) de lecture: Examen ou challenge.
-   * Configurer si un fichier *.qcm peut être exécuté ou pas en mode Challenge
-   * Configurer si un fichier *.qcm peut être exécuté ou pas en mode Examen
 
 Bien plus:
    * Définir un audio à jouer en boucle le long du challenge

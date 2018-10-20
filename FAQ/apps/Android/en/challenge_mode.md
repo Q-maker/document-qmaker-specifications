@@ -13,6 +13,11 @@ Also, for each question, the application will choose one and only one (1) true a
 
 Thus, in challenge mode, a maximum of four (4) answer proposals are proposed with only one (1) true answer selected at random from the available answer proposals for this question; All to be completed in a time frame = <i>Total duration of the questionnaire / number of questions per session</i>
 
+But also; when editing, author can configure
+   * The preferential mode (<i>recommended mode</i>) of reading: Exam or challenge.
+   * Whether or not the *.qcm file can be run in Challenge mode
+   * Whether or not the*.qcm file can be run in Exam mode
+
 
 ### What are the upcoming features?
 In the next updates, several configuration parameters will be added to the challenge mode in order to offer to questionnaire author
@@ -22,11 +27,6 @@ It will then be possible to:
    * Allow to manage the cases of multiple answers in challenge mode
    * Configure the maximum number of answer proposals to display to the player (<i>default = 4</i>)
    * Configure the maximum number of true answer proposals to display to the player during an exercise/quiz (<i>default = 1</i>).
-
-But also:
-   * Configure the preferential mode (<i>recommended mode</i>) of reading: Exam or challenge.
-   * Configure if a *.qcm file can be run or not in Challenge mode
-   * Configure if a *.qcm file can be run or not in Exam mode
 
 Much more:
    * Define an audio to play in loop along the challenge
