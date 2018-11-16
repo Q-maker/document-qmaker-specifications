@@ -29,6 +29,8 @@ From the preview page of your questionnaire, Scroll to the bottom will allow you
     If you left-click, you will see a description of the configuration property.
     If you click on the right you can configure the property.
 
+just click to the rigth side to edit and to the left side to get more explanation about the selected configuration.
+
 #### How to Access the questions and Answers Editor?
 There are two screens that offer the option of editing a questionnaire:
 
