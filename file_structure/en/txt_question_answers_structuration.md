@@ -1,4 +1,4 @@
-# How to structure a txt file to contain question and answers.
+# How to structure a txt file to contain questions and answers.
 The question-answers txt files are structured to contain one to several sections of questions and answer proposals.
 How to structure a question and answer section?
 Let's learn by example; see the question-answers section below:
