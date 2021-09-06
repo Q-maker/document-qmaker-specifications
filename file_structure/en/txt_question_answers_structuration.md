@@ -1,4 +1,4 @@
-# How to structure a txt file to contain question and answers.
+# How to structure a txt file to contain questions and answers.
 The question-answers txt files are structured to contain one to several sections of questions and answer proposals.
 How to structure a question and answer section?
 Let's learn by example; see the question-answers section below:
@@ -16,7 +16,7 @@ seas, oceans, rivers, ponds and water points.
 
 By this example, we can highlight that:
    * A section always begins with the wording of the question, it can be written under more than one lines.
-    However, no line break is accepted (white line corresponding to two line breaks)
+    However, no line break is accepted (white line corresponding to two line Return)
    * The proposed answers follow the wording of the question and are arranged so that:
 
             -The true propositions are preceded by an asterix (*)
@@ -46,7 +46,7 @@ seas, oceans, rivers, ponds and water points.
 Which of these animals are flying?
 *Pigeon
 -The dog
-*The crow
+*The raven
 *The Eagle
 > The pigeon, the raven and the eagle are all flying birds
 ```
